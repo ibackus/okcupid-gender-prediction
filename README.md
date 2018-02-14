@@ -5,7 +5,7 @@ The goal of this project was to predict a person's gender from their OkCupid pro
 The dataset used is a [publicly available](https://github.com/rudeboybert/JSE_OkCupid), small set of OkCupid profiles.
 The data is reproduced here for convenience.
 
-A PDF of the complete write-up of methods and results can be found here: [Results](https://github.com/ibackus/okcupid-gender-prediction/wiki/okcupid_gender_prediction.pdf)
+### A PDF of the complete write-up of methods and results can be found here: [Results](https://github.com/ibackus/okcupid-gender-prediction/wiki/okcupid_gender_prediction.pdf)
 
 ## Using these scripts
 Please feel free to use these scripts/tools in part or in their entirety.
