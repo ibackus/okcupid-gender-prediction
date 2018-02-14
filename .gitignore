@@ -1,6 +1,8 @@
 # PROJECT SPECIFIC IGNORES
 # Ignore all analysis generated data files
 *.p
+# Dont include the unzipped data file
+profiles.csv
 
 # LATEX IGNORES
 ## Core latex/pdflatex auxiliary files:
