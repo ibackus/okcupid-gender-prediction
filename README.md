@@ -7,6 +7,11 @@ The data is reproduced here for convenience.
 
 A PDF of the complete write-up of methods and results can be found here: [Results](https://github.com/ibackus/okcupid-gender-prediction/wiki/okcupid_gender_prediction.pdf)
 
+## Using these scripts
+Please feel free to use these scripts/tools in part or in their entirety.
+To get started, unzip `profiles.csv.zip` in the `data` folder.
+Analysis scripts are contained in the `analysis` folder.
+
 ## Contents
 * `analysis/` - Folder containing analysis scripts and results
 * `data/` - Folder (soft link) containing zipped version of the OkCupid profiles
