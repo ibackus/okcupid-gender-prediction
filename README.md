@@ -18,3 +18,6 @@ Analysis scripts are contained in the `analysis` folder.
 * `literature/` - A couple relevant articles
 * `poster/` - Poster presenting the methods and results
 * `writeup/` - LaTex and PDF of complete write-up for methods and results
+
+## Poster
+![Poster](poster/poster_02.jpg?raw=true "Poster")
